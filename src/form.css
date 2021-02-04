@@ -1,0 +1,14 @@
+.education-deatils {
+  border: 3px solid black;
+  width: 350px;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+form {
+  padding: 20px;
+}
+
+input {
+  margin-right: 10px;
+}
